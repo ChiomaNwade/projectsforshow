@@ -1,6 +1,6 @@
 Welcome to my Flask Project
 
-In this project I exlored the GET, POST, PUT and DELETE option in the reation of a web Application. 
+In this project I exlored the GET, POST, PUT and DELETE option in the creation of a web Application. 
 
 These are the steps I followed:
 Environment Setup:
